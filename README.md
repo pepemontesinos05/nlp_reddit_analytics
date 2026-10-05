@@ -1,6 +1,6 @@
 # Análisis de contenido de Reddit con PLN
 
-**Autores:** Enrique Vicente Pujante y José Montesinos Pineda
+**Autores:** Jose Montesinos Pineda y Enrique Vicente Pujante
 
 Proyecto de Procesamiento del Lenguaje Natural (PLN) sobre contenido de
 Reddit. A partir de un corpus propio de hilos y comentarios de varios
