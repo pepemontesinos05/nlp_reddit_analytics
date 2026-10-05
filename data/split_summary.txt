@@ -1,0 +1,19 @@
+RESUMEN DEL SPLIT TRAIN / TEST
+Ratio entrenamiento : 70%
+Ratio validación    : 30%
+Semilla aleatoria   : 42
+
+Subreddit       Hilos total Train hilos Test hilos Train cmts Test cmts
+──────────────────────────────────────────────────────────────────────
+Autism                   40          28         12        625       275
+Chemistry                40          28         12        621       274
+Cooking                  40          28         12        700       300
+Investing                40          28         12        625       275
+Python                   40          28         12        571       275
+Soccer                   40          28         12        550       273
+──────────────────────────────────────────────────────────────────────
+TOTAL                                                    3692      1672
+
+Ficheros generados:
+  train.json  →  3,692 comentarios
+  test.json   →  1,672 comentarios

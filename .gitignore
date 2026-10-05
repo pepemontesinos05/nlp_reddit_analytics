@@ -1,0 +1,23 @@
+# Volcados de Reddit originales y subconjuntos .zst (demasiado grandes para Git)
+data/raw/
+
+# Checkpoints/logs de entrenamiento de modelos
+data/results_mbert/
+data/logs_mbert/
+*.bin
+*.safetensors
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# SO / editores
+.DS_Store
+.vscode/

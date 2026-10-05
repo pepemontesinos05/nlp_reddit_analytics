@@ -1,0 +1,22 @@
+# Descarga / extracción del corpus (scripts/00_descarga_datos.py)
+zstandard
+
+# Análisis de datos general
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Representaciones de texto / embeddings
+fasttext-wheel
+sentence-transformers
+
+# Modelos Transformers (clasificación, resumen, SLMs)
+transformers
+accelerate
+datasets
+evaluate
+bitsandbytes
+
+jupyter
