@@ -14,6 +14,7 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
+.env
 
 # Jupyter
 *.nbconvert.ipynb

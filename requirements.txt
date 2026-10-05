@@ -18,5 +18,5 @@ accelerate
 datasets
 evaluate
 bitsandbytes
-
+dotenv
 jupyter
